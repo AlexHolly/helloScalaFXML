@@ -1,4 +1,4 @@
-package helloScalaFX
+package helloscalafxml
 
 import scalafx.Includes._
 import scalafx.application.JFXApp
@@ -9,14 +9,13 @@ object HelloStageDemo extends JFXApp {
 
   //Load my FirstScene.fxml, created with "Scene Builder 2.0"
   
-  //Download "Scene Builder 2.0"
-  //http://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-1x-archive-2199384.html  
+  //Download "Scene Builder see readme.md"  
   val root = FXMLView(getClass.getResource("FirstScene.fxml"), NoDependencyResolver)
   
   //Frame
   stage = new JFXApp.PrimaryStage {
     //Frame Title
-    title.value = "Hello ScalaFX"
+    title.value = "Hello ScalaFXML"
     //Show FirstScene.fxml
     scene = new Scene(root)
   }

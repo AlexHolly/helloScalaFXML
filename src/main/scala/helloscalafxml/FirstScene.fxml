@@ -9,7 +9,7 @@
 Find fx:any in Scene Builder under "Code" not the Id in "properties"!
 
 PATH TO CONTROLLER CLASS
-fx:controller="helloScalaFX.FirstSceneController"
+fx:controller="helloscalafxml.FirstSceneController"
 
 BUTTON ID
 fx:id="pushMeButton"
@@ -21,7 +21,7 @@ fx:id="outLabel" -->
 
 <AnchorPane prefHeight="77.0" prefWidth="268.0"
 	xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
-	fx:controller="helloScalaFX.FirstSceneController">
+	fx:controller="helloscalafxml.FirstSceneController">
 	<children>
 		<Button fx:id="pushMeButton" layoutX="75.0" layoutY="68.0"
 			mnemonicParsing="false" onAction="#onButtonDown" text="Push Me"

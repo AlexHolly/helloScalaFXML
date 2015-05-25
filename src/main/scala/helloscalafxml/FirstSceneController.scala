@@ -1,4 +1,4 @@
-package helloScalaFX
+package helloscalafxml
 
 import scalafx.scene.control._
 import scalafxml.core.macros._

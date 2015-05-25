@@ -2,7 +2,7 @@ import AssemblyKeys._
 
 assemblySettings
  
-jarName in assembly := "helloscalafx.jar"
+jarName in assembly := "helloscalafxml.jar"
  
 mergeStrategy in assembly := {
     case PathList("META-INF", xs @ _*) =>
@@ -16,7 +16,7 @@ mergeStrategy in assembly := {
 
 name := "helloScalaFXML"
 
-organization := "helloScalaFXML"
+organization := "helloscalafxml"
 
 version := "0.0.1-SNAPSHOT"
 
