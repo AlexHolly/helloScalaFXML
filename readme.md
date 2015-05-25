@@ -39,7 +39,9 @@ OR
 # **Scene Builder 2.0**
 http://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-1x-archive-2199384.html
 
-**console**
+# **How to run**
+
+**Console**
 
 ```
 sbt run
