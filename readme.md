@@ -32,7 +32,7 @@ Source: https://github.com/vigoo/scalafxml : https://github.com/scalafx/scalafx
 
 
 # **Scene Builder 8.0**
-http://gluonhq.com/products/downloads/
+http://gluonhq.com/products/scene-builder/
 
 OR
 
