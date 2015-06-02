@@ -31,13 +31,13 @@ unmanagedJars in Compile += Attributed.blank(file(System.getenv("JAVA_HOME") + "
 Source: https://github.com/vigoo/scalafxml : https://github.com/scalafx/scalafx
 
 
-# **Scene Builder 8.0**
-http://gluonhq.com/products/scene-builder/
+# **Scene Builder 2.0**
+http://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-1x-archive-2199384.html
 
 OR
 
-# **Scene Builder 2.0**
-http://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-1x-archive-2199384.html
+# **Scene Builder 8.0**
+http://gluonhq.com/products/scene-builder/
 
 # **How to run**
 
